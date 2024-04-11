@@ -1,0 +1,7 @@
+Chimpanzee;Mojo Jojo;26;50;Mojo Jojo is a notorious genius chimpanzee mad scientist, whose main goal is to destroy The Powerpuff Girls, crush Townsville, and conquer the world, in that order.;True
+Chimpanzee;Captain Charles;30;60;Once a normal chimpanzee, Charles was sent into space in the 1960s by NASA. He was discovered by an advanced alien race who used a machine to evolve Charlie into a more clever sentient being.;True
+Orangutan;King Louie;57;45;As self proclamed King of the primates, he enjoys a lavished life in his palace. King Louie enjoys jazzy music, fun-filled parties, and a seemingly endless supply of bananas and other fruits.;True
+Bonobo;Kanzi;44;45;Kanzi is regarded as the first great ape to demonstrate an understanding of spoken English. Kanzi comprehends novel sentences and combines lexigram symbols to describe new objects and foods.;True
+Capuchin;Marcel;29;3;Marcel is a famous Capuchin actor from New York City. He loves the song 'The Lion Sleeps Tonight'.;True
+Gorilla;King Kong;60;200;Kong has been dubbed the King of the Beasts and over time it would also be bestowed the title of the Eighth Wonder of the World.;True
+Gorilla;Donkey Kong;43;150;DK is quite fast despite his burly physique, and he keeps his strength up with a steady diet of his favorite food: bananas.;True
